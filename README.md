@@ -15,4 +15,4 @@ More HDC reading: [Simple HDC Intro](https://journals.plos.org/ploscompbiol/arti
 
 <br/>
 
-![HDC]([https://samim.io/static/upload/journal.pcbi.1012426.g001.PNG](https://samim.io/static/upload/hdc.webp))
+![HDC](https://samim.io/static/upload/hdc.webp)
